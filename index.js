@@ -1,0 +1,1 @@
+console.log("vete alv puto copilot no sirves para una chingada");
