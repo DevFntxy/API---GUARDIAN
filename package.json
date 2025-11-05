@@ -1,0 +1,23 @@
+{
+  "name": "api---guardian",
+  "version": "1.0.0",
+  "description": "Api creada para la recolleccion de datos para la aplicacion de Guardian Water",
+  "homepage": "https://github.com/DevFntxy/API---GUARDIAN#readme",
+  "bugs": {
+    "url": "https://github.com/DevFntxy/API---GUARDIAN/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevFntxy/API---GUARDIAN.git"
+  },
+  "license": "ISC",
+  "author": "T.S.U Derek Sesni Carreño",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
