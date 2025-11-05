@@ -1,1 +1,6 @@
-console.log("vete alv puto copilot no sirves para una chingada");
+import app from "./app.js";
+
+//Iniciar el servidor
+app.listen(app.get('port'), () => {
+    console.log(`Servidor iniciado en el puerto ${app.get('port')}`);
+});
